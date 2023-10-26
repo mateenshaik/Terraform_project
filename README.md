@@ -1,2 +1,1 @@
-# Terraform_project
-Terraform_Project
+# AWS and Azure Infrastructure automation using Terraform
